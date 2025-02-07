@@ -1,8 +1,12 @@
 <h1 align="center"> HP- AMD Ryzen 3 3300UAMD Radeon  Vega 6 Graphics </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd3ebc8b-136b-4566-b1b6-967d615eaf8d" alt="Thinkpad E570" width="750">
-![HP]()
+  <img src="https://github.com/user-attachments/assets/cd3ebc8b-136b-4566-b1b6-967d615eaf8d"
+  ![HP](https://github.com/user-attachments/assets/615c0dd2-a113-4457-b517-91efb2236bc2)
+
+    
+    alt="HP Codename : Piccaso" width="750">
+
 
 
  
