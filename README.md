@@ -2,10 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cd3ebc8b-136b-4566-b1b6-967d615eaf8d"
-  ![HP](https://github.com/user-attachments/assets/615c0dd2-a113-4457-b517-91efb2236bc2)
-
-    
-    alt="HP Codename : Piccaso" width="750">
+  ![HP](https://github.com/user-attachments/assets/615c0dd2-a113-4457-b517-91efb2236bc2) alt="HP Codename : Piccaso" width="750">
 
 
 
