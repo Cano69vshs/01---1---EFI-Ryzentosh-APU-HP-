@@ -5,19 +5,10 @@
   ![HP](https://github.com/user-attachments/assets/615c0dd2-a113-4457-b517-91efb2236bc2) alt="HP Codename : Piccaso" width="750">
 
 
-
- 
 </p>
-
 <h4 align="center"> OpenCore config for Hackintosh Ryzentosh AMD Radeon HP AMD Ryzen 3  3300U Vega 6 Graphics  </h4>
 
-
-
 # Kexts
-
-<p align="center">
-  <img src="https://github.com/yusufklncc/About-Kexts-on-macOS/blob/main/Kext.png" alt="Kext">
-</p>
 
 <p align="center">
 <a href="https://t.me/yusufklncc">
