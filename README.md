@@ -2,7 +2,16 @@
 
 <p align="center">
   <img src="https://github.com/yusufklncc/Lenovo-Thinkpad-E570-Hackintosh/blob/main/Resources/Lenovo%20ThinkPad%20E570.png" alt="Thinkpad E570" width="750">
+
+  ![HP- AMD Ryzen 3 3300U](https://github.com/user-attachments/assets/980b030b-a414-438b-96ec-ecc6415648a6)
+
 </p>
+
+
+
+
+
+
 
 <h4 align="center"> OpenCore config for Hackintosh Ryzentosh AMD Radeon HP AMD Ryzen 3  3300U Vega 6 Graphics  </h4>
 
