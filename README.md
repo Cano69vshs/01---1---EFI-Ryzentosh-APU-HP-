@@ -29,6 +29,58 @@
  - [Touchpad & Keyboard](https://github.com/yusufklncc/About-Kexts-on-macOS#touchpad--keyboard)
  - [Ethernet](https://github.com/yusufklncc/About-Kexts-on-macOS#ethernet)
  - [Wi-Fi & Bluetooth](https://github.com/yusufklncc/About-Kexts-on-macOS#wi-fi--bluetooth)
+
+--------------------
+
+
+
+## Original Hardware HP - 💻
+Type | Spec | Status
+:---------|:---------|:----------
+Model Name      | HP PAVILION LAPTOP 15-CW1XXX | ✅
+CPU              | AMD Ryzen 3 3300U | ✅
+GPU              | AMD Radeon(TM) Vega 6 Graphics" | ✅
+RAM           | 12.0 GB (9.92 GB usable) | ✅
+Internal AMD Graphics Card | AMD Radeon(TM) Vega 6 Graphics | ✅
+Wi-Fi             | Realtek RTL8821CE 802.11ac PCIe Adapter| ✅
+Ethernet          | Realtek PCIe GbE Family Controller | ✅
+Audio       |Realtek(R) Audio : 10EC-0295 | ✅
+Touchpad | Standard PS/2 Keyboard | ✅
+
+  
+
+-----
+
+
+##  .tp-link Modifications Doungle Adaptador USB   🔨
+Type | Spec | Status
+:---------|:---------|:----------
+Wi-Fi | TL-WN725N Doungle USB Adptador  | ✅
+USB Wi-Fi | TL-WN725N| ✅ 
+
+
+- *TL-WN725N*  Adaptador USB nano inalámbrico N de 150 Mbps , 
+- Seguridad avanzada: compatible con 64/128 WEP, WPA, PA2/WPA-PSK/WPA2-PSK(TKIP/AES) 
+- You have to install USB drivers for working USB adapter.
+
+
+
+
+# Adaptador USB nano inalámbrico N de 150 Mbps
+
+-   Diseño en miniatura elegante, tan pequeño que, una vez enchufado, puede dejarse en el puerto USB de una computadora portátil.
+-   Transmisión inalámbrica rápida de hasta 150 Mbps, ideal para transmisión de video o llamadas por Internet
+-   Seguridad avanzada: compatible con 64/128 WEP, WPA, PA2/WPA-PSK/WPA2-PSK(TKIP/AES)
+-   Conéctese en poco tiempo con una sencilla utilidad de configuración en 14 idiomas
+-   Windows 10/8.1/8/7/XP, Mac OS X, Linux
+
+
+
+
+="300">
+
+
+-----------------------
  
 ## Required for macOS Installation
  
